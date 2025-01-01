@@ -1,5 +1,5 @@
 export const persona = {
-    firstName: "Sparkk ✨",
+    firstName: "Sparkk",
     secondName: "s",
     description: "He/Him/Silly",
     email: "luckybastard@skiff.com",
