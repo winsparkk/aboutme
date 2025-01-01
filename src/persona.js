@@ -1,5 +1,5 @@
 export const persona = {
-    firstName: "Sparkk",
+    firstName: "Sparkk ✨",
     secondName: "s",
     description: "He/Him/Silly",
     email: "luckybastard@skiff.com",
@@ -7,7 +7,7 @@ export const persona = {
       "Roblox Developer/Graphic Designer, scripter, ui design, and special.  :O",
   sections: {
     // You can create your own sections. But! For reducing headache in future, change the values (content), but don't change the keys ('title', 'desc').
-    books: [
+    links: [
         {
             title: "Devforum",
             desc: 'u/spa_rkk',
