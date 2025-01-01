@@ -1,6 +1,6 @@
 export const persona = {
-    firstName: "Sparkk ✨",
-    secondName: "",
+    firstName: "Sparkk",
+    secondName: "s",
     description: "He/Him/Silly",
     email: "luckybastard@skiff.com",
     story:
