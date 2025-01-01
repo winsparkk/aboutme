@@ -4,7 +4,7 @@ export const persona = {
     description: "He/Him/Silly",
     email: "",
     story:
-      "Roblox Developer/Graphic Designer, scripter, ui design, and stupid. 😜",
+      "Just a silly little roblox developer, don't do much. Anyways, why did you click on this link? Are you bored, confused, scared?! Or you noticed i'm just better like that. Roblox Developer/Graphic Designer, scripter, ui design, and stupid. 😜",
   sections: {
     // You can create your own sections. But! For reducing headache in future, change the values (content), but don't change the keys ('title', 'desc').
     links: [
