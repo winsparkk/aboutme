@@ -19,7 +19,7 @@ export const persona = {
             url: 'https://www.roblox.com/users/1609236070/profile'
         },
     ],
-    experience: [
+    creations: [
         {
             title: "Indian Motorcycles",
             desc: '2010-now',
