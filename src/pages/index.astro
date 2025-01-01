@@ -14,20 +14,20 @@ const fullName = persona.firstName + " " + persona.secondName;
   <Header title={fullName} description={persona.description} />
   <Story story={persona.story} />
   <Section>
-    <SectionTitle title="Books" />
+    <SectionTitle title="Links 🔗" />
     <List>
       {
-        persona.sections.books.map((e) => (
+        persona.sections.links.map((e) => (
           <ListItem title={e.title} desc={e.desc} url={e.url} />
         ))
       }
     </List>
   </Section>
   <Section>
-    <SectionTitle title="Experience" />
+    <SectionTitle title="Creations 🧱" />
     <List>
       {
-        persona.sections.experience.map((e) => (
+        persona.sections.creations.map((e) => (
           <ListItem title={e.title} desc={e.desc} url={e.url} />
         ))
       }
